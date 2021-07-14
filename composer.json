@@ -1,0 +1,12 @@
+{
+    "name": "nika/lab3-akhaladze",
+    "authors": [
+        {
+            "name": "nika akhaladze",
+            "email": "akhaladze.nika@gtu.ge"
+        }
+    ],
+    "require": {
+        "phpmailer/phpmailer": "^6.4"
+    }
+}
